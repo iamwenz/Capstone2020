@@ -1,5 +1,7 @@
 ## Postnatal Jounry Taiwan
-### Description
+  ![Postanatal Journey](https://github.com/iamwenz/Capstone2020/blob/main/Postnatal%20Journey%20Taiwan.png)
+  
+  ### Description
 Postnatal care education system for mothers and newborns using emerging media, virtual reality, and web development.
 ### Live URL 
 **[www.kidsmatterstudio.com](http://www.kidsmatterstudio.com)**
